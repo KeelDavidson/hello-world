@@ -1,2 +1,2 @@
 # hello-world
-testing making new repository's
+trying out making new repository's,Branchs and commit's
